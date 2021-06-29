@@ -1,6 +1,7 @@
 # pizza-app
 
 > pizza-applx
+> 服务端用的widdog,但是这个公司因为经营不善已经倒闭了，服务全部被关停， 要改到firebase(google的服务，需要翻墙)才可以实现注册，内部增删改查，，，没时间改
 
 ## Build Setup
 
